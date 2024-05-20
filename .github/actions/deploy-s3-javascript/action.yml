@@ -1,0 +1,5 @@
+name: Practicing the js custom actions
+description: Some extra description
+runs:
+  using: 'node20'
+  main: 'main.js'
